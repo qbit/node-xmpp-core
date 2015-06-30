@@ -19,7 +19,7 @@
     "url": "https://github.com/node-xmpp/node-xmpp-core/issues"
   },
   "dependencies": {
-    "node-stringprep": "^0.7.0",
+    "node-stringprep": "https://github.com/qbit/node-stringprep.git",
     "reconnect-core": "https://github.com/dodo/reconnect-core/tarball/merged",
     "tls-connect": "^0.2.2",
     "ltx": "^0.9.0",
